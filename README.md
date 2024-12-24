@@ -1,5 +1,3 @@
-content = """# 🎮 Juega con Shante
-
 Bienvenido **Shante**, Proyecto final de JavaScript.
 
 ---
