@@ -1,4 +1,6 @@
-Bienvenido **Shante**, Proyecto final de JavaScript.
+content = """# 🎮 Proyecto: Juega con Shante
+
+Bienvenido, proyecto final de JavaScript.
 
 ---
 
