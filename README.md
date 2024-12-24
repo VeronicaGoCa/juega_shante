@@ -1,4 +1,4 @@
-content = """# 🎮 Proyecto: Juega con Shante
+## 🎮 Proyecto: Juega con Shante
 
 Bienvenido, proyecto final de JavaScript.
 
