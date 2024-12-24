@@ -20,8 +20,8 @@ Bienvenido, proyecto final de JavaScript.
 
 ---
 
-## 🖌️ Clona repositorio
+## 🖌️ Repositorio
 
-1. Desde la siguiente ruta:
+1. Puedes clonar el proyecto desde la siguiente ruta:
    ```bash
    git clone https://github.com/VeronicaGoCa/juega_shante.git
